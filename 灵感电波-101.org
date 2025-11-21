@@ -1,0 +1,65 @@
+#+title: 最后设计 - 为那些真正发明了我们所用硬件与软件的人，留下名字｜灵感电波 #101
+
+** [[https://berkshirehathaway.com/news/nov1025.pdf][巴菲特的最后一封信｜Warren Buffett's final shareholder letter [pdf]​]]
+
+Berkshire Hathaway Inc.｜News Release｜2025-11-10
+
+这是一封写在九十五岁的人生高处的告别信。巴菲特宣布将卸下伯克希尔年度信与股东大会发言人的角色，用他一贯的温和与幽默，回望自己与奥马哈、与查理·芒格、与“幸运女士”和“时间老人”的一生。他谈基因与机遇，谈继承与慈善，也提醒我们：伟大不在财富，而在善意与行动。读完这封信，你几乎能听到一个懂得感恩的人，向世界温柔的道别。
+
+#+begin_quote
+哪怕你是个“混球”；改变永远不晚
+#+end_quote
+
+** [[https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/][游戏设计，其实很简单｜Game design is simple, actually]]
+
+Raph Koster｜Game Talk｜2025-11-03
+
+这是一篇能让任何玩过游戏、做过设计的人会心一笑的文章。Raph Koster（曾任索尼在线娱乐首席创意官）用十二个看似简单的步骤，把“游戏为什么好玩”拆解得明明白白：从乐趣、规则、反馈，到循环、变体与节奏，每一步都精准得像程序，又生动得像诗。游戏的本质是“解决问题”，而好玩的秘密藏在“不确定性”里。读完之后，你也会更懂学习、创造，甚至人生——因为一切有趣的事，终究都是一场精心设计的游戏。
+
+#+begin_quote
+人们在“问题刚好越过他们能力边界”时学得最好
+#+end_quote
+
+** [[https://ckarchive.com/b/k0umh6h56x947t6n33wn4aokxz577h8hgxwdn?][你得自己来过这一生｜You have to do the living yourself]]
+
+Oliver Burkeman｜The Imperfectionist｜2025-10-23
+
+我们常常以为，找到正确的方法、习惯或系统，就能让生活自动变好。但奥利弗·伯克曼在这篇文章里提醒我们：没有任何技巧能替你去活人生。真正重要的，不是优化、不是控制，而是一次又一次地亲自走进当下——去写那一百个字，去拒绝那块甜点，去认真听完一个人说话。别再等完美的时机或方法了，你得自己来过这一生。
+
+#+begin_quote
+它其实比寻找“完美方法”“完美环境”“完美系统”要简单多了
+#+end_quote
+
+** [[https://publicdomainreview.org/essay/science-of-sound/][随声入迷｜Hooked on Sonics]]
+
+Lucas Thompson｜The Public Domain Review｜2025-10-23
+
+在十九世纪的维多利亚时代，人们第一次“看见”了声音。沙粒在金属板上跳跃成花，孩子们在客厅里用火钩、口哨和火焰做实验，科学与游戏、美与知识、理性与神秘，在那个时代奇异地融为一体。本文带你回到那场“声学启蒙”的世纪——一个连声音都能通向灵性与诗意的世界。读完它，你或许会重新思考：科学究竟只是冷静的求知，还是人类最早的浪漫？
+
+#+begin_quote
+一种崭新的学习范式——以游戏、美与愉悦为基石
+#+end_quote
+
+** [[https://inventingthefuture.ghost.io/mr-tiff/][TIFF先生｜Mr TIFF]]
+
+John Buck｜Inventing The Future｜2025-10-27
+
+这是一篇关于“被遗忘的发明者”的寻访记。在多年研究科技史的旅途中，约翰·巴克意外发现：我们每天使用的图像标准 TIFF，居然没有署上真正创造者的名字。于是，他从旧刊、档案到纸质信件，一路追查，直到找回那个隐匿在历史里的工程师——斯蒂芬·卡尔森。故事从冷冰冰的文件格式，慢慢转向一个人的温度：执着、谦逊、被误写的名字，以及一封迟到的回信。
+**有些人用代码改变世界，却从未被世界记得。**
+这是写给所有无名发明者的一封信。
+
+#+begin_quote
+为那些真正发明了我们所用硬件与软件的人，留下名字
+#+end_quote
+
+
+---
+祝你有美好的一周！
+
+DSH
+
+#+begin_quote
+May the inspiration be with you.
+#+end_quote
+
+
