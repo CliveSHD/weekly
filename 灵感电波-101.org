@@ -1,6 +1,6 @@
 #+title: 最后设计 - 为那些真正发明了我们所用硬件与软件的人，留下名字｜灵感电波 #101
 
-** [[https://berkshirehathaway.com/news/nov1025.pdf][巴菲特的最后一封信｜Warren Buffett's final shareholder letter [pdf]​]]
+** [[https://berkshirehathaway.com/news/nov1025.pdf][巴菲特的最后一封信｜Warren Buffett's final shareholder letter​]]
 
 Berkshire Hathaway Inc.｜News Release｜2025-11-10
 
@@ -52,8 +52,8 @@ John Buck｜Inventing The Future｜2025-10-27
 为那些真正发明了我们所用硬件与软件的人，留下名字
 #+end_quote
 
-
 ---
+
 祝你有美好的一周！
 
 DSH
