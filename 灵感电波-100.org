@@ -1,0 +1,67 @@
+#+title: 思考流形 - 你得自己创造条件｜灵感电波 #100
+
+** [[https://archive.ph/fPLJH][AI 在思考｜The Case That A.I. Is Thinking]]
+
+James Somers｜The New Yorker｜2025-11-03
+
+这是一篇会让你重新思考“智能”含义的长文。作者詹姆斯·索默斯（James Somers）从亲身经历出发，讲述他如何从 AI 怀疑者，转变为目睹它展现出真正理解力的见证人。文章带你穿越从鲁梅尔哈特到辛顿、从霍夫施塔特到卡内尔瓦的思想史，揭示大语言模型与人类思维之间那条模糊、又令人战栗的界线。读完之后，你会忍不住问自己：当理解的幻觉足够逼真时，我们还分得清什么是真正的思考吗？
+
+#+begin_quote
+它从根本上去魅了‘思考’。
+#+end_quote
+
+
+** [[https://www.quantamagazine.org/what-is-a-manifold-20251103/][什么是流形｜What Is a Manifold?]]
+
+Paulina Rowińska｜Quanta Magazine｜2025-11-03
+
+我们脚下的地面看似平坦，实际上却弯曲在一个巨大的球体上。黎曼在 19 世纪提出的“流形”（manifold）概念，正是从这种错觉出发——他让“空间”不再只是舞台，而成为可以被研究、被弯曲、被想象的主角。今天，广义相对论、量子物理、甚至数据分析，都在用他发明的语言描述世界。读完这篇文章，你会重新理解“空间”是什么——以及数学家如何用一张抽象的“地图”，去丈量宇宙。
+
+#+begin_quote
+流形是我们理解宇宙的关键之一。
+#+end_quote
+
+
+** [[https://www.theparisreview.org/blog/2025/10/29/truck-desk/][我的卡车办公桌｜My Truck Desk]]
+
+Bud Smith｜The Paris Review｜2025-10-29
+
+在石化厂的轰鸣与金属屑之间，一个焊工用废木板、旧卡车和十五分钟的午休，写出了属于自己的文学世界。巴德·史密斯（Bud Smith）这篇《我的卡车办公桌》，是一封献给所有“在别的工作之余坚持创作的人”的情书——粗糙、诚实，又出奇温柔。它提醒我们：写作不在于环境，而在于那股不肯放下笔的倔劲。哪怕身处油渍与噪音，只要心还亮着灯，哪里都能是你的书房。
+
+#+begin_quote
+你得自己创造条件。
+#+end_quote
+
+
+** [[https://seated.ro/blog/tinkering-a-lost-art][不折腾的人，没有品味｜If you don't tinker, you don't have taste]]
+
+ro｜seated.ro｜2025-03-15
+
+这是一篇写给所有“动手党”的小小宣言。作者从自己迟来的“折腾之路”谈起——从键盘轴体到 Linux 窗口管理器，从 neovim 配置到 Rust 宏——一路发现，真正的学习从来不是按部就班的吸收，而是不断拆解、重组、试错的过程。
+他提醒我们：品味不是天赋，而是无数次“摆弄”积累出的辨别力。只有亲手改动过、失败过、再重来过，才能知道什么是真正属于自己的好。
+
+#+begin_quote
+你不该和别人有相同的品味。
+#+end_quote
+
+
+** [[https://tallywinkle.bearblog.dev/music-library/][个人音乐库的回归｜the return of the personal music library]]
+
+tally｜coffee spills｜2025-11-03
+
+我们曾以为，音乐的未来属于云端。随点随听，无限曲库，看似自由，实则失去了“我的音乐”的那份亲密。作者在一次偶然的车内清理中，重新拾起尘封的 CD，从此开始了“去流媒体化”的生活实验——重新抓轨、整理曲库、买唱片、支持独立音乐人。这篇文章像一首温柔的反流行宣言：当算法替你决定一切时，真正的自由，是重新拿回选择权。重建属于自己的音乐宇宙，从一次“播放”开始。
+
+#+begin_quote
+我申请导出了自己全部的 Spotify 账户数据和收听历史，打算彻底删除账号。
+#+end_quote
+
+
+
+祝你有美好的一周！
+
+DSH
+
+#+begin_quote
+May the inspiration be with you.
+#+end_quote
+
