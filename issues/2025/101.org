@@ -1,4 +1,5 @@
-#+title: 最后设计 - 为那些真正发明了我们所用硬件与软件的人，留下名字｜灵感电波 #101
+#+title: 最后设计
+为那些真正发明了我们所用硬件与软件的人，留下名字｜灵感电波 #101
 
 ** [[https://berkshirehathaway.com/news/nov1025.pdf][巴菲特的最后一封信｜Warren Buffett's final shareholder letter​]]
 
