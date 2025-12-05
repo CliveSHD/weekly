@@ -1,0 +1,74 @@
+#+title:朝鲜手机
+三大星（Sam Taung）8｜灵感电波 #104
+
+** [[https://www.youtube.com/watch?v=3olqrQtjPfc][测试朝鲜非法智能手机｜Testing North Korea's illegal smartphones]]
+
+Mrwhosetheboss｜YouTube｜2025-11-22
+
+你有想过“在朝鲜，智能手机是什么样的吗？”这个视频的答案离谱到超出想象：
+基于安卓系统却被完全改造成另一种东西——输入法会把“韩国”强行纠成“傀儡政权”，系统会悄悄截屏、应用会自动过期、Wi-Fi 图标形同虚设，真正能连上的只有被严格筛选的内联网。荒诞到让人想笑，却又让人背脊发凉。
+
+这个视频，让我第一次如此贴近地看到普通朝鲜人的数字生活——以及他们被剥夺了什么。愿我们始终记住：自由不是默认值，它需要被珍惜，也需要被守护。
+
+#+begin_quote
+“三大星（Sam Taung）8”，是一款朝鲜的旗舰机
+#+end_quote
+
+** [[https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/][把数据中心送上太空，是个糟糕透顶的主意｜Datacenters in space are a terrible, horrible, no good idea.]]
+
+Taranis｜taranis.ie｜2025-11-26
+
+在创业者的世界里，乐观是推动一切前进的燃料，但反对意见同样珍贵——它让我们保持清醒、谨慎投入。这篇文章用极其清晰的解释与扎实的数据，拆解了为什么“太空数据中心”并不是科幻式的浪漫，而是工程上近乎注定失败的方向。
+
+吸引我的不是结论，而是它展开的一连串把电脑送进太空必须面对的现实限制：电力从哪里来、散热如何实现、辐射如何摧毁现代芯片……如果我们真要像马斯克所说的那样迈向星际，这些细节才是决定成败的真正门槛。读完之后，你会更理解太空工程的浪漫，也会更尊重它的艰难。
+
+#+begin_quote
+发射上天，听天由命
+#+end_quote
+
+** [[https://sydneyreviewofbooks.com/essays/in-defence-of-cliche][为陈词滥调辩护｜In Defence of Cliché]]
+
+Henry Chase Richards｜Sydney Review of Books｜2025-11-10
+
+这篇文章一开始看似是关于澳大利亚文化、广告行业和陈词滥调的语言趣谈，但真正吸引我的是作者在“打工”与“创作”之间摇摆、挣扎、清醒又无奈的心路历程。工作既是镀金的监狱，也是稳定的靠山；既吞噬写作的力气，又支撑写作得以发生。作者把这种双刃剑式的现实写得赤裸又温柔，让我读到一种和当下自己非常相似的处境——想写点真正属于自己的东西，却也离不开那份能支付房租和梦想的日常工作。如果你也在寻找生活与创作的平衡，这篇文章会让你感到被理解，也会重新点亮一点继续创作的勇气。
+
+#+begin_quote
+有些话，即使被说了一万遍，依然有力
+#+end_quote
+
+** [[https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic][你是不是活在“电影逻辑”里？｜Are you stuck in movie logic?]]
+
+Cate Hall｜Useful Fictions｜2025-06-18
+
+在电影里，反派死于话多，主角死于不说清楚——但这种“电影逻辑”在现实里却是把关系慢慢拖垮的隐形杀手。电影能靠误会凑时长，我们却不能靠沉默解决问题。作者提出的思路很简单：把真实的问题说出口，极度坦诚，往往才是解除紧张、化解误解的最快路径。作为一个也不喜欢冲突的人，我读完收获很大，也希望它能帮你在关键时刻更勇敢地开口。
+
+#+begin_quote
+如果你觉得“不能说”，那就是要说的问题
+#+end_quote
+
+** [[https://ideas.profoundideas.com/p/how-to-become-dangerously-articulate][如何练就让人敬畏的表达力｜How to become dangerously articulate]]
+
+Craig Perry｜Profound Ideas｜2025-12-01
+
+这是那种读完会想马上站起来说点什么的文章。它让我再次确认：语言，就是力量，而且是当下时代最危险、最具改变性的力量。AI 已经把这个事实放大到极致——语言模型之所以席卷世界，就是因为表达力本身就是智能。作者在文中不仅拆出这股力量的本质，还给出一套真正可用的方法论，让你一步步练出自己的“危险表达力”。如果你正在寻找突破思考、突破表达、突破自我束缚的路径，这篇文章会是一个强力的起点。
+
+#+begin_quote
+害羞，是一种无声的机会杀手
+#+end_quote
+
+---
+
+除了本周的五篇精选内容，我还想分享这个新闻：[[https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/][旅行者1号：即将抵达距地球一光日的深空里程碑]]
+
+拍下那张让无数人震撼的“暗淡蓝点”的探测器，如今已经漂离我们整整一光日。旅行者 1 号在将近半个世纪的宇宙黑暗中不断前行，仪器逐渐衰老，却仍然像微弱却坚定的回声，把数据从星际深处传回地球。它提醒我们：人类或许渺小如尘埃，但仍能伸手触碰星辰；宇宙或许辽阔难测，但希望从未远离。
+
+---
+
+祝你有美好的一周！
+
+DSH
+
+#+begin_quote
+May the inspiration be with you.
+#+end_quote
+
