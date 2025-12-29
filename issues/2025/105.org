@@ -1,0 +1,63 @@
+#+title:魔鬼指南
+我会让他们一直忙碌。永远分心。｜灵感电波 #105
+
+** [[https://www.afterbabel.com/p/the-devils-plan-to-ruin-the-next][魔鬼毁掉下一代的隐秘剧本｜The Devil’s Plan to Ruin the Next Generation]]
+
+Jon Haidt｜After Babel｜2025-12-01
+
+这篇文章让我重新思考了“毁灭世界”的方式。我从未想过，末日的降临不是通过大洪水或彗星撞击，而是悄无声息、缓慢的腐蚀。文章通过一个有趣的思想实验，深入探讨了现代科技，尤其是智能手机与社交媒体，如何以看不见的方式侵蚀年轻一代的精神世界、注意力、关系和意义感。它不仅是一种警示，更是一种深刻的社会诊断，提醒我们在享受科技便利的同时，如何保持人类的根基、专注与真实的联系。如果你也对这一代年轻人面临的精神危机有所关注，这篇文章值得一读。
+
+#+begin_quote
+我会让他们一直忙碌。永远分心。
+#+end_quote
+
+** [[https://andyljones.com/posts/horses.html][马｜Horses]]
+
+Andy Jones｜andyljones.com｜2025-12-08
+
+这是一篇读完会让人心里一紧的演讲稿。作者从马被发动机取代、棋手被电脑击败，一路讲到自己被 Claude 在六个月内超越——把“技术进步是线性的，但被替代是突发的”这个残酷现实讲得异常清晰。它没有危言耸听，反而是一种近乎平静的自白：当一个系统便宜一千倍、速度快数十倍、质量还更高时，变化不会按我们希望的节奏发生。这篇文章非常适合作为我们重新理解 AI 时代职业安全感的参照系，也是一面镜子，让我们思考：当下一次“1920 年”降临时，我们会站在图表的哪一侧。
+
+#+begin_quote
+我只用了短短六个月就被超越。
+#+end_quote
+
+** [[https://substack.com/@polymathinvestor/note/c-181277895?utm_source=notes-share-action&r=mrlt][提升专注力与注意力的实用指南｜How to improve your focus and concentration]]
+
+Polymath Investor｜Polymath Investor｜2025-11-26
+
+这篇文章像是一堂关于“如何夺回心智主权”的系统课程。我们以为自己缺的是意志力，但事实上，专注是一套可以训练、可以设计的系统：从重塑任务到管理注意力，从调节情绪到打造无干扰环境，每一步都有明确可操作的方法。读完之后，你会第一次清楚地看到，为什么你总是分心、为什么有些人能长时间沉浸在深度工作中，以及你如何也能做到。若你渴望在这个嘈杂世界里重新掌握自己的大脑，这篇文章会给你一套真正可执行的路线图。
+
+#+begin_quote
+专注，是深度思考的原材料。
+#+end_quote
+
+** [[https://www.theguardian.com/books/2025/nov/30/does-laziness-start-in-the-brain-apathy-motivation][“懒惰”从何而来：动机的神经学真相｜Does ‘laziness’ start in the brain?]]
+
+Masud Husain｜The Guardian｜2025-11-30
+
+这篇文章把“懒惰”从道德指责里救了出来。原来我们口中的“不想动”“提不起劲”，背后真有具体的大脑机制：那些负责把“想做”转换成“去做”的区域，会在某些人身上比常人更吃力，甚至像文中的大卫一样，陷入一种病理性的冷漠。动机不是意志力的胜败，而是大脑对“值得不值得”的计算。理解这一点，会让你对自己温柔许多，也更懂得如何恢复行动力——提前规划、降低决策负担、让奖励变得可感、用运动唤醒多巴胺。读完你会发现：懒惰不是罪，是信号；当大脑换了一种方式在运作，我们也可以换一种方式与它合作。
+
+#+begin_quote
+大卫并没有抑郁。他实际上挺开心的。
+#+end_quote
+
+** [[https://neal.fun/size-of-life/][生命的尺度｜Size of Life]]
+
+Neal Agarwal｜neal.fun｜2025-12-10
+
+《Size of Life》是一款直观、有趣的可视化网站，通过不断缩放的方式展示从微观到宏观的生命尺度。它以生动的图像和流畅的交互，让人轻松理解生命在大小上的惊人差异，非常适合科普阅读、课堂展示或纯粹满足好奇心。
+
+#+begin_quote
+甚至背景音乐都有无限惊喜。
+#+end_quote
+
+
+祝你有美好的一周！
+
+DSH
+
+#+begin_quote
+May the inspiration be with you.
+#+end_quote
+
+
