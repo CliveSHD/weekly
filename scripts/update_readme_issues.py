@@ -26,12 +26,22 @@ def build_issue_links(files: list[Path], repo_root: Path) -> str:
 
 
 def replace_block(content: str, new_block: str) -> str:
-    if START_MARKER not in content or END_MARKER not in content:
+    lines = content.splitlines()
+    start_indices = [i for i, line in enumerate(lines) if START_MARKER in line]
+    end_indices = [i for i, line in enumerate(lines) if END_MARKER in line]
+    if not start_indices or not end_indices:
         raise ValueError("README missing auto-generated markers")
 
-    start_index = content.index(START_MARKER) + len(START_MARKER)
-    end_index = content.index(END_MARKER)
-    return content[:start_index] + "\n" + new_block + "\n" + content[end_index:]
+    start_index = start_indices[0]
+    end_index = end_indices[0]
+    if start_index >= end_index:
+        raise ValueError("README marker order is invalid")
+
+    new_lines = lines[: start_index + 1]
+    if new_block:
+        new_lines.extend(new_block.splitlines())
+    new_lines.extend(lines[end_index:])
+    return "\n".join(new_lines) + "\n"
 
 
 def main() -> None:
