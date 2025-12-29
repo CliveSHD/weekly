@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+from collections import defaultdict
 from pathlib import Path
 
 
 START_MARKER = "AUTO-GENERATED-ISSUES-START"
 END_MARKER = "AUTO-GENERATED-ISSUES-END"
+TITLE_PREFIX = "#+title:"
 
 
 def collect_issue_files(issues_dir: Path) -> list[Path]:
@@ -13,15 +15,34 @@ def collect_issue_files(issues_dir: Path) -> list[Path]:
     for org_file in issues_dir.glob("*/**/*.org"):
         if org_file.is_file():
             files.append(org_file)
-    return sorted(files, key=lambda path: (path.parent.name, path.stem))
+    return files
+
+
+def extract_title(org_file: Path) -> str:
+    for line in org_file.read_text(encoding="utf-8").splitlines():
+        if line.lower().startswith(TITLE_PREFIX):
+            return line.split(":", 1)[1].strip()
+    return ""
 
 
 def build_issue_links(files: list[Path], repo_root: Path) -> str:
-    lines: list[str] = []
+    grouped: dict[str, list[Path]] = defaultdict(list)
     for org_file in files:
-        issue_number = org_file.stem
-        rel_path = org_file.relative_to(repo_root).as_posix()
-        lines.append(f"- [[{rel_path}][Issue {issue_number}]]")
+        year = org_file.parent.name
+        grouped[year].append(org_file)
+
+    lines: list[str] = []
+    for year in sorted(grouped.keys(), reverse=True):
+        lines.append(f"** {year}")
+        year_files = sorted(grouped[year], key=lambda path: path.stem, reverse=True)
+        for org_file in year_files:
+            issue_number = org_file.stem
+            rel_path = org_file.relative_to(repo_root).as_posix()
+            issue_title = extract_title(org_file)
+            label = f"Issue {issue_number}"
+            if issue_title:
+                label = f"{label} - {issue_title}"
+            lines.append(f"- [[{rel_path}][{label}]]")
     return "\n".join(lines)
 
 

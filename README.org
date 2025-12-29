@@ -7,12 +7,13 @@
 
 * 往期周刊
 # AUTO-GENERATED-ISSUES-START
-- [[issues/2025/100.org][Issue 100]]
-- [[issues/2025/101.org][Issue 101]]
-- [[issues/2025/102.org][Issue 102]]
-- [[issues/2025/103.org][Issue 103]]
-- [[issues/2025/104.org][Issue 104]]
-- [[issues/2025/105.org][Issue 105]]
-- [[issues/2025/106.org][Issue 106]]
-- [[issues/2025/107.org][Issue 107]]
+** 2025
+- [[issues/2025/107.org][Issue 107 - 2025 纪元]]
+- [[issues/2025/106.org][Issue 106 - 我的泡沫]]
+- [[issues/2025/105.org][Issue 105 - 魔鬼指南]]
+- [[issues/2025/104.org][Issue 104 - 朝鲜手机]]
+- [[issues/2025/103.org][Issue 103 - 终极情书]]
+- [[issues/2025/102.org][Issue 102 - 暗黑对话]]
+- [[issues/2025/101.org][Issue 101 - 最后设计]]
+- [[issues/2025/100.org][Issue 100 - 思考流形]]
 # AUTO-GENERATED-ISSUES-END
