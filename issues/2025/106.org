@@ -1,0 +1,63 @@
+#+title: 我的泡沫
+当复杂事物让我们困惑，我们就急着编故事，解释为什么它“必须”那样发生｜灵感电波 #106
+
+** [[https://www.oaktreecapital.com/insights/memo/is-it-a-bubble][泡沫，还是泡沫？｜Is It a Bubble?]]
+
+Howard Marks｜Oaktree｜2025-12-09
+
+如果你最近也在反复听到“AI 改变一切”“不参与就会错过下一个时代”，这篇文章值得你慢慢读完。霍华德·马克斯以他一贯冷静、克制却极具穿透力的方式，把目光从技术本身移向更危险也更真实的东西——人类在巨大叙事面前的情绪、投机与风险错配。这不是一篇唱衰 AI 的文章，而是一篇提醒你在狂热中保持清醒的长文：为什么几乎所有伟大的技术进步都会伴随泡沫？为什么“可能改变世界”和“值得以任何价格投资”之间，并不等号？在这个人人都被 FOMO 推着向前的时刻，这篇文章提供的不是答案，而是一套更成熟、更稀缺的思考方式。
+
+#+begin_quote
+泡沫最有趣的一点，是它的规律性
+#+end_quote
+
+** [[https://archive.is/vXMGs][人人都在靠作弊混过大学｜Everyone Is Cheating Their Way Through College]]
+
+James D. Walsh｜New York Magazine｜2025-05-07
+
+如果你还把“AI 辅助写作”当成零星的作弊现象，这篇文章会狠狠地纠正你。它不是在讨论几名学生如何偷懒，而是在揭示一整套大学教育体系，如何在 ChatGPT 面前迅速失效：作业被自动化，学习被外包，评分变成“谁更会用 AI”。从藤校到社区大学，从课堂作业到求职面试，作者用大量真实案例勾勒出一个令人不安的现实——当思考本身可以被替代，我们究竟还在学校里学什么？这是一篇读完会让人沉默很久的文章。
+
+#+begin_quote
+李说，他在学校里一个不靠 AI 作弊的学生都不认识。
+#+end_quote
+
+** [[https://chicgirlmoment.substack.com/p/how-to-start-doing-something-instead][别再说“我会去做”，现在就开始行动｜how to start doing something, instead of saying you will do something]]
+
+chicgirlmoment｜chicgirlmoment｜2025-05-29
+
+这是一篇写给所有“想了很久，却迟迟没开始”的人的文章。它不讲宏大的成功学，也不贩卖短暂的激情，而是一次温柔却坚定的提醒：真正改变人生的，从来不是计划本身，而是那些看似微不足道、却持续发生的小行动。作者用极其日常的语言，拆解了拖延、自我怀疑和三分钟热度是如何出现的，也给出了一个朴素却有效的答案——别等准备好，别等更好的时机，就从当下这一小步开始。如果你最近总是在“我会去做”和“算了明天再说”之间来回摇摆，这篇文章值得你慢慢读完。
+
+#+begin_quote
+“一点点”也好过什么都不做，因为它在教会我们纪律。
+#+end_quote
+
+** [[https://jeffhuang.com/productivity_text_file/][我的效率工具，不过是一个永远写不完的 .txt 文件｜My productivity app is a never-ending .txt file]]
+
+Jeff Huang｜jeffhuang.com｜2022-03-21
+
+如果你已经被各种效率 App 折腾得精疲力尽，这篇文章也许会让你如释重负。作者用一个看似“退化”的方法——一个不断追加的 `.txt` 文件，构建起支撑了十几年的高效工作系统：没有复杂功能，没有炫目界面，却把行动、记录、回顾与掌控感牢牢合在一起。它不是在教你如何把事情做得更多，而是如何在有限精力中，把每天过得清楚、可控、可持续。对长期创作者、研究者，以及任何厌倦工具崇拜的人来说，这是一剂极其清醒的解药。
+
+#+begin_quote
+到现在为止，这一个文件里已经有 51,690 行手写内容
+#+end_quote
+
+** [[https://planktonvalhalla.com/20251204-purpose-from-first-principles/][从第一性原理理解目的｜Purpose From First Principles]]
+
+Marco｜Plankton Valhalla｜2025-12-04
+
+我们总以为世界处处都有“目的”，也习惯用故事、计划和意图去解释一切——但这恰恰是许多困惑、误判与灾难的源头。本文是一篇极具野心、却异常克制的思想长文：作者从物理学、控制论、认知科学出发，区分“真正的目的”与“看起来像目的的东西”，提出“Water Lily（睡莲）”这一极具启发性的隐喻，重构了我们理解目标、计划、意义与行动的方式。如果你曾困惑于人生目标、系统失控、社会问题为何屡屡“好心办坏事”，这篇文章会给你一种罕见的清晰感——不是答案式的安慰，而是第一性原理层面的清醒。
+
+#+begin_quote
+当复杂事物让我们困惑，我们就急着编故事，解释为什么它“必须”那样发生
+#+end_quote
+
+
+祝你有美好的一周！
+
+DSH
+
+#+begin_quote
+May the inspiration be with you.
+#+end_quote
+
+
