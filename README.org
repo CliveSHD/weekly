@@ -4,3 +4,17 @@
 灵感电波是一份网络周刊，精选全球最新鲜、最深刻的好内容，每周五发送。
 
 请用 [[https://github.com/CliveSHD/weekly/issues][issue]] 投稿。
+
+* 往期周刊
+#+begin_comment
+AUTO-GENERATED-ISSUES-START
+- [[issues/2025/100.org][Issue 100]]
+- [[issues/2025/101.org][Issue 101]]
+- [[issues/2025/102.org][Issue 102]]
+- [[issues/2025/103.org][Issue 103]]
+- [[issues/2025/104.org][Issue 104]]
+- [[issues/2025/105.org][Issue 105]]
+- [[issues/2025/106.org][Issue 106]]
+- [[issues/2025/107.org][Issue 107]]
+AUTO-GENERATED-ISSUES-END
+#+end_comment
